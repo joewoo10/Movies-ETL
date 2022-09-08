@@ -1,6 +1,6 @@
 ## Movies-ETL (Extract, Transform, Load)
 
-In this project an automated pipeline was created to input new data from Wikipedia data, Kaggle metadata, and MovieLens rating data, for the Amazing Prime Hackathon. Then the data was and loaded into an existing PostgreSQL database.
+For this project, an automated pipeline was created to input new data from Wikipedia data, Kaggle metadata, and MovieLens rating data, for the Amazing Prime Hackathon. Then the data was and loaded into an existing PostgreSQL database.
 
 For this analysis, the following was completed:
 
